@@ -17,6 +17,7 @@ Plugin 'junegunn/fzf.vim'
 Plugin 'itchyny/lightline.vim'
 Plugin 'terryma/vim-multiple-cursors'
 Plugin 'scrooloose/nerdtree'
+Plugin 'davidhalter/jedi-vim'
 Plugin 'w0rp/ale'
 
 
